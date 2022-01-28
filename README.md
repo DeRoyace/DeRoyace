@@ -26,7 +26,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 
-<img align="center" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" />
+<img align="center" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="600"/>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deroyace&label=Profile%20views&color=0e75b6&style=flat" alt="deroyace" /> </p>
@@ -65,5 +65,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deroyace&" alt="deroyace" /></p>
 
-<img align="center" src="https://media.giphy.com/media/yYSSBtDgbbRzq/giphy.gif" width="400" />
-<img align="right" src="https://media.giphy.com/media/FoVzfcqCDSb7zCynOp/giphy.gif" width="400" />
+<img src="https://media.giphy.com/media/yYSSBtDgbbRzq/giphy.gif" width="400" />
+<img  src="https://media.giphy.com/media/FoVzfcqCDSb7zCynOp/giphy.gif" width="400" />
