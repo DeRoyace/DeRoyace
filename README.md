@@ -60,7 +60,7 @@
 
 ### :fire: My Stats :
 
-<p><i[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DeRoyace&theme=elegant&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)mg align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deroyace&show_icons=true&locale=en&layout=compact" alt="deroyace" /></p>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DeRoyace&theme=elegant&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=deroyace&show_icons=true&locale=en" alt="deroyace" /></p>
 
