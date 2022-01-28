@@ -26,9 +26,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 
-  <img align="center" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" />
-
-
+  <p align="center"> <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deroyace&label=Profile%20views&color=0e75b6&style=flat" alt="deroyace" /> </p>
 
