@@ -28,7 +28,7 @@
 <img align="left" src="https://media.giphy.com/media/f3CtEsJ72j86DIumaJ/giphy.gif" width="350"/>
 <img align="center" src="https://media.giphy.com/media/yYSSBtDgbbRzq/giphy.gif" width="350" />
 <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" />
-<img src="https://media.giphy.com/media/FoVzfcqCDSb7zCynOp/giphy.gif" width="350" />
+<img align="right" src="https://media.giphy.com/media/FoVzfcqCDSb7zCynOp/giphy.gif" width="350" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deroyace&label=Profile%20views&color=0e75b6&style=flat" alt="deroyace" /> </p>
 
