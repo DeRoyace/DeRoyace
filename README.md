@@ -23,7 +23,7 @@
 <!-- end of giphy -->
  
  <h1 align="center">Hi 👋, I'm Rohit Roy</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Software R&D Enthusiasts from India</h3>
 
 <p align="center"> <img src="https://media3.giphy.com/media/XcXx0WlV7L9cMKhA6G/giphy.gif?cid=6c09b9521efee15da60d01086f8a3f90bd0ceca468b13f78&rid=giphy.gif&ct=s" alt="deroyace" /> </p>
 
@@ -35,11 +35,11 @@
 
 
 ### :woman_technologist: About Me :
-- 🔭 I’m currently working on **Java**
+- 🔭 I’m currently working on **1. Java <br> 2. Web Development**
 
-- 🌱 I’m currently learning **Web development**
+- 🌱 I’m currently learning **Web development & GUI in Java**
 
-- 🤝 I’m looking for help with **JavaFX**
+<!-- - 🤝 I’m looking for help with **JavaFX** -->
 
 - 💬 Ask me about **Java**
 
