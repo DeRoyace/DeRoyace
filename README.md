@@ -27,8 +27,8 @@
 
 <p align="center"> <img src="https://media3.giphy.com/media/XcXx0WlV7L9cMKhA6G/giphy.gif?cid=6c09b9521efee15da60d01086f8a3f90bd0ceca468b13f78&rid=giphy.gif&ct=s" alt="deroyace" width="340"/> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deroyace&label=Profile%20views&color=0e75b6&style=flat" alt="deroyace" />
-<a href="https://twitter.com/derohitroyace" target="blank"><img src="https://img.shields.io/twitter/follow/derohitroyace?logo=twitter&style=for-the-badge" alt="derohitroyace" width="230"/></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=deroyace&label=Profile%20views&color=0e75b6&style=flat" alt="deroyace" height="16"/>  
+<a href="https://twitter.com/derohitroyace" target="blank"><img src="https://img.shields.io/twitter/follow/derohitroyace?logo=twitter&style=for-the-badge" alt="derohitroyace" width="230" height="16"/></a> </p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deroyace" alt="deroyace" /></a> </p> -->
 
@@ -76,5 +76,5 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DeRoyace&theme=elegant&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
-<img align="left" src="https://media.giphy.com/media/yYSSBtDgbbRzq/giphy.gif" width="400" />
+<img align="left" src="https://media.giphy.com/media/yYSSBtDgbbRzq/giphy.gif" width="400" height="400"/>
 <img  align="center" src="https://media.giphy.com/media/FoVzfcqCDSb7zCynOp/giphy.gif" width="400" height="400"/>
