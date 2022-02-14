@@ -72,7 +72,7 @@
 ### :fire: My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeRoyace&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=deroyace&show_icons=true&locale=en" alt="deroyace" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api?username=deroyace&theme=nightowl&show_icons=true" /></p>
+<!-- <p><img src="https://github-readme-stats.vercel.app/api?username=deroyace&theme=algolia&show_icons=true" /></p> -->
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DeRoyace&theme=elegant&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
