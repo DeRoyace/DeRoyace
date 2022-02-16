@@ -32,9 +32,9 @@
 
 
 ### :woman_technologist: About Me :
-- 🔭 I’m currently working on **1. Java <br> 2. Web Development**
+- 🔭 I’m currently working on **Java | Web Development**
 
-- 🌱 I’m currently learning **Web development & GUI in Java**
+- 🌱 I’m currently learning **Web development | GUI in Java**
 
 <!-- - 🤝 I’m looking for help with **JavaFX** -->
 
