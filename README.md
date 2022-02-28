@@ -32,13 +32,13 @@
 
 
 ### :woman_technologist: About Me :
-- 🔭 I’m currently working on **Java | Web Development**
+- 🔭 I’m currently working on **Java**
 
-- 🌱 I’m currently learning **Web development | GUI in Java**
+- 🌱 I’m currently learning **GUI in Java | Python**
 
 <!-- - 🤝 I’m looking for help with **JavaFX** -->
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Java | OOP**
 
 - 📫 How to reach me **deroyace93@yahoo.com**
 
