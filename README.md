@@ -32,21 +32,18 @@
 
 
 ### :woman_technologist: About Me :
-- 🔭 I’m currently working on ***Java***
+- 🔭 I’m currently working on **Java**
 
-- 🌱 I’m currently learning ***GUI in Java | Python***
+- 🌱 I’m currently learning **GUI in Java | Python**
 
 <!-- - 🤝 I’m looking for help with **JavaFX** -->
 
-- 💬 Ask me about ***Java | OOPs***
+- 💬 Ask me about **Java | OOPs**
 
-- 📫 How to reach me ***deroyace93@yahoo.com**
+- 📫 How to reach me **deroyace93@yahoo.com**
 - 🎯 Interests: ***Backend developer, Cybersecurity, Web design, App development & Content writing ✍*** 
 
 - ⚙ OS: ***Windows, Linux***
-
-- 🧰 Tools: ***Vscode, Vim, Git***
-
 - 🧑‍💻 Blogging: ***Quora spaces & Blogger***
 
 <h3 align="left">Connect with me:</h3>
