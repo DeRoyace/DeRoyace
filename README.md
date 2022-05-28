@@ -34,14 +34,14 @@
 ### :woman_technologist: About Me :
 - 🔭 I’m currently working on **Java**
 
-- 🌱 I’m currently learning **GUI in Java | Python**
+- 🌱 I’m currently learning **Web development**
 
 <!-- - 🤝 I’m looking for help with **JavaFX** -->
 
 - 💬 Ask me about **Java | OOPs**
 
 - 📫 How to reach me **deroyace93@yahoo.com**
-- 🎯 Interests: ***Backend developer, Cybersecurity, Web design, App development & Content writing ✍*** 
+- 🎯 Interests: ***Backend developer, Cybersecurity, Web design, App development & Content creating ✍*** 
 
 - ⚙ OS: ***Windows, Linux***
 - 🧑‍💻 Blogging: ***Quora spaces & Blogger***
