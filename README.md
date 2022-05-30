@@ -32,7 +32,7 @@
 
 
 ### :woman_technologist: About Me :
-- 🔭 I’m currently working on **Java**
+<-- - 🔭 I’m currently working on **Java** -->
 
 - 🌱 I’m currently learning **Web development**
 
