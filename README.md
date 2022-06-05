@@ -34,7 +34,7 @@
 ### :woman_technologist: About Me :
 <!-- - 🔭 I’m currently working on **Java** -->
 
-- 🌱 I’m currently learning **Web development**
+- 🌱 I’m currently learning **Web development, Networking & Sefurity**
 
 <!-- - 🤝 I’m looking for help with **JavaFX** -->
 
