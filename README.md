@@ -52,7 +52,7 @@
 <a href="https://twitter.com/derohitroyace" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="derohitroyace" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rohit-roy-51b2b6222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohit-roy-51b2b6222" height="30" width="40" /></a>
 <a href="https://instagram.com/de_rohit_roy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="de_rohit_roy" height="30" width="40" /></a>
-<a href="[https://www.youtube.com/c/de royace creations](https://www.youtube.com/channel/UCH6ALEpyDJBjhrPT7SssWqg)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="de royace creations" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCH6ALEpyDJBjhrPT7SssWqg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="de royace creations" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/creative_roy2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="creative_roy2003" height="30" width="40" /></a>
 </p>
 <!-- end of social media icons -->
