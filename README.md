@@ -84,8 +84,8 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DeRoyace&theme=elegant&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ### ✍️ Random Dev Quote
-<p align="center">
- <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=algolia" />
+<p>
+ <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=algolia" width="340" />
 </p>
 
 <!-- 
