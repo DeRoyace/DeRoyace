@@ -83,6 +83,9 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DeRoyace&theme=elegant&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 <!-- 
 <img align="left" src="https://media.giphy.com/media/yYSSBtDgbbRzq/giphy.gif" width="400" height="400"/>
 <img  align="center" src="https://media.giphy.com/media/FoVzfcqCDSb7zCynOp/giphy.gif" width="400" height="400"/> -->
