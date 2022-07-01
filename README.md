@@ -85,7 +85,7 @@
 
 ### ✍️ Random Dev Quote
 <p align="center">
- ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=algolia)
+ <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=algolia" />
 </p>
 
 <!-- 
