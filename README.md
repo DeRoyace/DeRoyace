@@ -26,9 +26,9 @@
 <h3 align="center">A passionate Software R&D Enthusiasts from India</h3>
 
 <p align="center"> 
-<img src="https://komarev.com/ghpvc/?username=deroyace&label=Profile%20views&color=red&style=flat" alt="deroyace" height="23"/>
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/deroyace?color=g&label=Followers&style=flat">
-<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/derohitroyace?color=blue&label=%40deRohitRoyace%20&logo=twitter&style=flat">
+<img src="https://komarev.com/ghpvc/?username=deroyace&label=Profile%20views&color=red&style=flat" alt="deroyace" height="25"/>
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/deroyace?color=g&label=Followers&style=flat" height="25>
+<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/derohitroyace?color=blue&label=%40deRohitRoyace%20&logo=twitter&style=flat" height="25">
 </p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deroyace" alt="deroyace" /></a> </p> -->
