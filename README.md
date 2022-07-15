@@ -28,7 +28,7 @@
 <p align="center"> 
 <img src="https://komarev.com/ghpvc/?username=deroyace&label=Profile%20views&color=red&style=flat" alt="deroyace" height="25"/>
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/deroyace?color=g&label=Followers&style=flat" height="25">
-<img alt="twitter followers" src="https://img.shields.io/twitter/follow/derohitroyace?color=blue&logo=twitter&style=plastic" height="25">
+<img alt="twitter followers" src="https://img.shields.io/twitter/follow/derohitroyace?color=blue&logo=twitter&style=flat" height="25">
 </p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deroyace" alt="deroyace" /></a> </p> -->
