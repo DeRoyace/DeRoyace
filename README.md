@@ -26,9 +26,9 @@
 <h3 align="center">A passionate Software R&D Enthusiasts from India</h3>
 
 <p align="center">
-<a src="https://github.com/DeRoyace"><img src="https://komarev.com/ghpvc/?username=deroyace&label=Profile%20views&color=red&style=flat" alt="deroyace" height="25"/></a>
-<a src="https://github.com/DeRoyace"><img alt="GitHub followers" src="https://img.shields.io/github/followers/deroyace?color=green&logo=github" height="25"></a>
-<a src="https://twitter.com/deRohitRoyace"><img alt="twitter followers" src="https://img.shields.io/twitter/follow/derohitroyace?color=blue&logo=twitter&style=flat" height="25"></a>
+<a href="https://github.com/DeRoyace"><img src="https://komarev.com/ghpvc/?username=deroyace&label=Profile%20views&color=red&style=flat" alt="deroyace" height="25"/></a>
+<a href="https://github.com/DeRoyace"><img alt="GitHub followers" src="https://img.shields.io/github/followers/deroyace?color=green&logo=github" height="25"></a>
+<a href="https://twitter.com/deRohitRoyace"><img alt="twitter followers" src="https://img.shields.io/twitter/follow/derohitroyace?color=blue&logo=twitter&style=flat" height="25"></a>
 </p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deroyace" alt="deroyace" /></a> </p> -->
