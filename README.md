@@ -25,8 +25,11 @@
  <h1 align="center">Hi 👋, I'm Rohit Roy</h1>
 <h3 align="center">A passionate Software R&D Enthusiasts from India</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=deroyace&label=Profile%20views&color=0e75b6&style=flat" alt="deroyace" height="23"/>  
-<a href="https://twitter.com/derohitroyace" target="blank"><img src="https://img.shields.io/twitter/follow/derohitroyace?logo=twitter&style=for-the-badge" alt="derohitroyace" width="230" height="23"/></a> </p>
+<p align="center"> 
+<img src="https://komarev.com/ghpvc/?username=deroyace&label=Profile%20views&color=0e75b6&style=flat" alt="deroyace" height="23"/>
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/deroyace?color=g&label=Followers&style=for-the-badge">
+<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/derohitroyace?color=blue&label=%40deRohitRoyace%20&logo=twitter&style=for-the-badge">
+</p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deroyace" alt="deroyace" /></a> </p> -->
 
