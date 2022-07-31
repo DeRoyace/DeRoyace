@@ -89,10 +89,9 @@
 ### ✍️ Random Dev Quote
 <p>
  <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=algolia" width="340" />
+ <img src="https://media3.giphy.com/media/XcXx0WlV7L9cMKhA6G/giphy.gif?cid=6c09b9521efee15da60d01086f8a3f90bd0ceca468b13f78&rid=giphy.gif&ct=s" alt="deroyace" width="340"/>
 </p>
 
 <!-- 
 <img align="left" src="https://media.giphy.com/media/yYSSBtDgbbRzq/giphy.gif" width="400" height="400"/>
 <img  align="center" src="https://media.giphy.com/media/FoVzfcqCDSb7zCynOp/giphy.gif" width="400" height="400"/> -->
-
-<p align="center"> <img src="https://media3.giphy.com/media/XcXx0WlV7L9cMKhA6G/giphy.gif?cid=6c09b9521efee15da60d01086f8a3f90bd0ceca468b13f78&rid=giphy.gif&ct=s" alt="deroyace" width="340"/> </p>
