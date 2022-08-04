@@ -23,7 +23,7 @@
 <!-- end of giphy -->
  
  <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="32">, I'm Rohit Roy</h1>
-<h3 align="center">A passionate Software R&D Enthusiasts from India</h3>
+<h3 align="center">A passionate Front-End Developer from India</h3>
 
 <p align="center">
 <a href="https://github.com/DeRoyace"><img src="https://komarev.com/ghpvc/?username=deroyace&label=Profile%20views&color=red&style=flat" alt="deroyace" height="25"/></a>
