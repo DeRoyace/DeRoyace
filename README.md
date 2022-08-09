@@ -84,9 +84,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DeRoyace&theme=elegant&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DeRoyace&theme=dracula"/>
-
-<img src="https://github.com/deroyace/github-stats-terminal-style/blob/master/github_stats.svg" alt="terminal-stats">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DeRoyace&theme=algolia"/>
 
 ### ✍️ Random Dev Quote
 <p align="center">
