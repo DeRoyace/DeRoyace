@@ -1,6 +1,3 @@
-<!-- ### Hi there 👋 I'm Rohit Roy from SXC, Calcutta.
-
-
 <!-- **DeRoyace/DeRoyace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <!-- Here are some ideas to get you started: 
@@ -14,7 +11,7 @@
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... Life is painful while using TURBO C++ still some guys uses it...
 
- -->
+-->
  
 <!--  Adding Giphy:  -->
 <div id="header" align="center">
@@ -23,8 +20,9 @@
 <!-- end of giphy -->
  
  <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="32">, I'm Rohit Roy</h1>
-<h3 align="center">A passionate Front-End Developer from India</h3>
-
+<!-- <h3 align="center">A passionate Front-End Developer from India</h3> -->
+<p align="center"><a href="https://git.io/typing-svg" ><img src="https://readme-typing-svg.herokuapp.com?font=Hack&size=25&duration=4300&pause=1000&color=FF0000&background=47FF8800&vCenter=true&multiline=true&width=750&height=60&lines=I+am+a+passionate+Front-End+Developer+from+India." alt="Typing SVG" /></a>
+</p>
 <p align="center">
 <a href="https://github.com/DeRoyace"><img src="https://komarev.com/ghpvc/?username=deroyace&label=Profile%20views&color=red&style=flat" alt="deroyace" height="25"/></a>
 <a href="https://github.com/DeRoyace"><img alt="GitHub followers" src="https://img.shields.io/github/followers/deroyace?color=green&logo=github" height="25"></a>
@@ -34,7 +32,7 @@
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deroyace" alt="deroyace" /></a> </p> -->
 
 
-### :woman_technologist: About Me :
+### 👨‍💻 About Me :
 <!-- - 🔭 I’m currently working on **Java** -->
 
 - 🌱 I’m currently learning **Web development, DSA, Networking**
@@ -85,6 +83,10 @@
 <p><img src="https://github-readme-stats.vercel.app/api?username=deroyace&theme=algolia&show_icons=true" /></p>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DeRoyace&theme=elegant&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DeRoyace&theme=dracula"/>
+
+<img src="https://github.com/deroyace/github-stats-terminal-style/blob/master/github_stats.svg" alt="terminal-stats">
 
 ### ✍️ Random Dev Quote
 <p align="center">
