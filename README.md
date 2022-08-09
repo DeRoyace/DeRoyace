@@ -93,7 +93,10 @@
  <img src="https://media3.giphy.com/media/XcXx0WlV7L9cMKhA6G/giphy.gif?cid=6c09b9521efee15da60d01086f8a3f90bd0ceca468b13f78&rid=giphy.gif&ct=s" alt="deroyace" width="340"/>
 
  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=2qudtmdiqz5y5k8yofko881s1&cover_image=true&theme=default&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=2qudtmdiqz5y5k8yofko881s1&redirect=true)
+
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=2qudtmdiqz5y5k8yofko881s1&count=7" />
 </p>
+
 
 <!-- 
 <img align="left" src="https://media.giphy.com/media/yYSSBtDgbbRzq/giphy.gif" width="400" height="400"/>
