@@ -29,8 +29,8 @@
 <!-- - 🤝 I’m looking for help with **JavaFX** -->
 - 💬 Ask me about **Java | OOPs**
 - 📫 How to reach me **deroyace93@yahoo.com**
-- 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... Life is painful while using TURBO C++ still some guys uses it...
+- 😄 Pronouns: **He/Him**
+- ⚡ Fun fact: **Life is painful while using TURBO C++ still some guys uses it...**
 - 🎯 Interests: ***Backend developer, Cybersecurity, Web design, App development & Content creating ✍*** 
 - ⚙ OS: ***Windows, Linux***
 - 🧑‍💻 Blogging: ***Quora spaces & Blogger***
@@ -64,14 +64,23 @@
 <!-- Programming and tools icons ends here -->
  
 ### 🔥 My Stats :
-<p>
+<!-- <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeRoyace&layout=compact&theme=algolia" height="195"/>
   <img src="https://github-readme-stats.vercel.app/api?username=deroyace&theme=algolia&show_icons=true"/>
+</p> -->
+
+<p>
+  <img src="https://raw.githubusercontent.com/DeRoyace/Float-in-github-stats/9e118142f3977850534ce6919571c54513d90479/generated/overview.svg#gh-dark-mode-only" />
+  <img src="https://raw.githubusercontent.com/DeRoyace/Float-in-github-stats/9e118142f3977850534ce6919571c54513d90479/generated/languages.svg#gh-dark-mode-only" />
 </p>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DeRoyace&theme=elegant&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DeRoyace&theme=tokyonight"/>
+
+<img src="https://raw.githubusercontent.com/DeRoyace/terminal-style-stats-display/94a3fed69daf820c418147516f52abec8f2cd45d/github_stats.svg"/>
+
+
 
 ### ✍️ Random Dev Quote
 <p>
@@ -79,7 +88,7 @@
   <img src="https://media3.giphy.com/media/XcXx0WlV7L9cMKhA6G/giphy.gif?cid=6c09b9521efee15da60d01086f8a3f90bd0ceca468b13f78&rid=giphy.gif&ct=s" alt="deroyace" width="350"/>
 
   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=2qudtmdiqz5y5k8yofko881s1&cover_image=true&theme=default&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=2qudtmdiqz5y5k8yofko881s1&redirect=true) &nbsp;
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=2qudtmdiqz5y5k8yofko881s1&count=7&unique=on" />
+  <!-- <img src="https://spotify-recently-played-readme.vercel.app/api?user=2qudtmdiqz5y5k8yofko881s1&count=7&unique=on" /> -->
 </p>
 
 <!-- 
