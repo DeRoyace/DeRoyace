@@ -10,8 +10,8 @@
 
 <!-- <h3 align="center">A passionate Front-End Developer from India</h3> -->
 
-<p align="right">
-  <a href="https://git.io/typing-svg" ><img src="https://readme-typing-svg.herokuapp.com?font=Hack&size=25&duration=4300&pause=200&color=FF0000&background=47FF8800&hCenter=true&multiline=false&width=630&height=60&lines=Front-End+Developer;Cybersecurity;Web+Development;Content+Writing" alt="Typing SVG"/></a>
+<p>
+  <a href="https://git.io/typing-svg" ><img src="https://readme-typing-svg.herokuapp.com?font=Hack&size=25&duration=4300&pause=200&color=FF0000&background=47FF8800&center=true&multiline=false&width=1000&height=60&lines=Front-End+Developer;Cybersecurity+Enthusiast;Web+Developing;Content+Writing" alt="Typing SVG"/></a>
 </p>
 
 <p align="center">
@@ -94,3 +94,44 @@
 <!-- 
 <img align="left" src="https://media.giphy.com/media/yYSSBtDgbbRzq/giphy.gif" width="400" height="400"/>
 <img  align="center" src="https://media.giphy.com/media/FoVzfcqCDSb7zCynOp/giphy.gif" width="400" height="400"/> -->
+
+<table align="center" border="0">
+  <tr>
+    <td>
+      <marquee scrollamount="11" behavior="alternate" direction="up" height="160px">
+        <font size="+7" color="yellow">
+          😉
+        </font>
+      </marquee>
+    </td>
+    <td>
+      <marquee scrollamount="13" behavior="alternate" direction="up" height="160px">
+        <font size="+7" color="yellow">
+          😅
+        </font>
+      </marquee>
+    </td>
+    <td>
+      <marquee scrollamount="10" behavior="alternate" direction="up" height="160px">
+        <font size="+7" color="yellow">
+          🙃
+        </font>
+      </marquee>
+    </td>
+    <td>
+      <marquee scrollamount="15" behavior="alternate" direction="up" height="160px">
+        <font size="+7" color="yellow">
+          😋
+        </font>
+      </marquee>
+    </td>
+    <td>
+      <marquee scrollamount="12" behavior="alternate" direction="up" height="160px">
+        <font size="+7" color="yellow">
+          😄
+        </font>
+      </marquee>
+    </td>
+
+  </tr>
+</table>
