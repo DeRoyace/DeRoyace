@@ -36,16 +36,11 @@
 
 ### :woman_technologist: About Me :
 <!-- - 🔭 I’m currently working on **Java** -->
-
 - 🌱 I’m currently learning **Web development, DSA, Networking**
-
 <!-- - 🤝 I’m looking for help with **JavaFX** -->
-
 - 💬 Ask me about **Java | OOPs**
-
 - 📫 How to reach me **deroyace93@yahoo.com**
-- 🎯 Interests: ***Backend developer, Cybersecurity, Web design, App development & Content creating ✍*** 
-
+- 🎯 Interests: ***Full Stack Web developer, Cybersecurity, Web design, App development & Content creating ✍*** 
 - ⚙ OS: ***Windows, Linux***
 - 🧑‍💻 Blogging: ***Quora spaces & Blogger***
 
