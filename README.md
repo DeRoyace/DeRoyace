@@ -11,7 +11,7 @@
 <!-- <h3 align="center">A passionate Front-End Developer from India</h3> -->
 
 <p>
-  <a href="https://git.io/typing-svg" ><img src="https://readme-typing-svg.herokuapp.com?font=Hack&size=25&duration=4300&pause=200&color=FF0000&background=47FF8800&center=true&multiline=false&width=1000&height=60&lines=Front-End+Developer;Cybersecurity+Enthusiast;Web+Developing;Content+Writing" alt="Typing SVG"/></a>
+  <a href="https://git.io/typing-svg" ><img src="https://readme-typing-svg.herokuapp.com?font=Hack&size=25&duration=4300&pause=200&color=FF0000&background=47FF8800&center=true&multiline=false&width=1000&height=40&lines=Front-End+Developer;Cybersecurity+Enthusiast; Girlfriend:+Java; Currently+dating+CSS; Jogging with C; Slowly exercising with JS; " alt="Typing SVG"/></a>
 </p>
 
 <p align="center">
@@ -25,8 +25,8 @@
 
 ### 👨‍💻 About Me :
 <!-- - 🔭 I’m currently working on **Java** -->
-- 🌱 I’m currently learning **Web development, DSA, Networking**
 <!-- - 🤝 I’m looking for help with **JavaFX** -->
+- 🌱 I’m currently learning **Web development, DSA, Networking**
 - 💬 Ask me about **Java | OOPs**
 - 📫 How to reach me **deroyace93@yahoo.com**
 - 😄 Pronouns: **He/Him**
@@ -74,7 +74,7 @@
   <img src="https://raw.githubusercontent.com/DeRoyace/Float-in-github-stats/9e118142f3977850534ce6919571c54513d90479/generated/languages.svg#gh-dark-mode-only" />
 </p>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DeRoyace&theme=elegant&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DeRoyace&theme=gotham&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DeRoyace&theme=tokyonight"/>
 
@@ -87,7 +87,7 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=algolia" width="350" />
   <img src="https://media3.giphy.com/media/XcXx0WlV7L9cMKhA6G/giphy.gif?cid=6c09b9521efee15da60d01086f8a3f90bd0ceca468b13f78&rid=giphy.gif&ct=s" alt="deroyace" width="350"/>
 
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=2qudtmdiqz5y5k8yofko881s1&cover_image=true&theme=default&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=2qudtmdiqz5y5k8yofko881s1&redirect=true) &nbsp;
+  <!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=2qudtmdiqz5y5k8yofko881s1&cover_image=true&theme=default&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=2qudtmdiqz5y5k8yofko881s1&redirect=true) &nbsp; -->
   <!-- <img src="https://spotify-recently-played-readme.vercel.app/api?user=2qudtmdiqz5y5k8yofko881s1&count=7&unique=on" /> -->
 </p>
 
@@ -95,7 +95,7 @@
 <img align="left" src="https://media.giphy.com/media/yYSSBtDgbbRzq/giphy.gif" width="400" height="400"/>
 <img  align="center" src="https://media.giphy.com/media/FoVzfcqCDSb7zCynOp/giphy.gif" width="400" height="400"/> -->
 
-<table align="center" border="0">
+<!-- <table align="center" border="0">
   <tr>
     <td>
       <marquee scrollamount="11" behavior="alternate" direction="up" height="160px">
@@ -134,4 +134,6 @@
     </td>
 
   </tr>
-</table>
+</table> -->
+
+<!-- ![Metrics](https://metrics.lecoq.io/DeRoyace?template=terminal&isocalendar=1&languages=1&introduction=1&stars=1&base.indepth=false&base.hireable=false&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stars.limit=4&introduction.title=true&config.timezone=Asia%2FCalcutta) -->
