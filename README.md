@@ -11,7 +11,7 @@
 <!-- <h3 align="center">A passionate Front-End Developer from India</h3> -->
 
 <p>
-  <a href="https://git.io/typing-svg" ><img src="https://readme-typing-svg.herokuapp.com?font=Hack&size=25&duration=4300&pause=200&color=FF0000&background=47FF8800&center=true&multiline=false&width=1000&height=40&lines=Front-End+Developer;Cybersecurity+Enthusiast; Girlfriend:+Java; Currently+dating+CSS; Jogging with C; Slowly exercising with JS; " alt="Typing SVG"/></a>
+  <a href="https://git.io/typing-svg" ><img src="https://readme-typing-svg.herokuapp.com?font=Hack&size=25&duration=4300&pause=200&color=FF0000&background=47FF8800&center=true&multiline=false&width=1000&height=40&lines=Front-End+Developer;Cybersecurity+Enthusiast;Girlfriend:+Java;Currently+dating+CSS;Jogging+with+C;Slowly+exercising+with+JS;" alt="Typing SVG"/></a>
 </p>
 
 <p align="center">
