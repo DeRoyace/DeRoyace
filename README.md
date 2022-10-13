@@ -38,8 +38,12 @@
 <!-- - 🔭 I’m currently working on **Java** -->
 - 🌱 I’m currently learning **Web development, DSA, Networking & OS**
 - 💬 Ask me about **Java | OOPs**
-- 📫 How to reach me **deroyace93@yahoo.com**
+- 📫 How to reach me **deroyace97@gmail.com**
+- 😄 Pronouns: ... He/Him
+- ⚡ Fun fact: ... Life is painful while using TURBO C++ still some guys uses it...
+
 - 🎯 Interests: ***Full Stack Web developer, Cybersecurity, Web design, App development & Content creating ✍*** 
+
 - ⚙ OS: ***Windows, Linux***
 - 🧑‍💻 Blogging: ***Quora spaces & Blogger***
 
