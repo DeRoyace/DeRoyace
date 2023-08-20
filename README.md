@@ -26,14 +26,14 @@
 ### 👨‍💻 About Me :
 <!-- - 🔭 I’m currently working on **Java** -->
 <!-- - 🤝 I’m looking for help with **JavaFX** -->
-- 🌱 I’m currently learning **Web development, DSA, Networking**
-- 💬 Ask me about **Java | OOPs**
-- 📫 How to reach me **deroyace93@yahoo.com**
-- 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: **Life is painful while using TURBO C++ still some guys uses it...**
-- 🎯 Interests: ***Backend developer, Cybersecurity, Web design, App development & Content creating ✍*** 
-- ⚙ OS: ***Windows, Linux***
-- 🧑‍💻 Blogging: ***Quora spaces & Blogger***
+- 🌱 **I’m currently learning -** Web development, Theory of Computation, Operations Research, Microprocessor & Quantum Computing
+- 💬 **Ask me about** OOPs, DSA
+- 📫 **How to reach me _deroyace97@gmail.com_**
+- 😄 **Pronouns:** He/Him
+- ⚡ **Fun fact:** _"Life is painful while using TURBO C++ still some guys uses it..."_
+- 🎯 **Interests:** Full Stack developer, Cybersecurity, Web design, App development & Content creating ✍
+- ⚙ **OS:** Linux Mint - Cinnamon
+<!-- - 🧑‍💻 Blogging: ***Quora spaces & Blogger*** -->
 
 ### Connect with me:
 <!-- Social media icons here: -->
@@ -59,7 +59,7 @@
   <a href="https://code.visualstudio.com/docs" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/45575898/132374566-e8aca758-460c-48d8-944c-dcf4a7590bd1.png" alt="vscode" width="40" height="40" /> </a>  
   <a href="https://en.wikipedia.org/wiki/Linux" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/150px-Tux.svg.png" alt="linux" width="40" height="40" /> </a>  
   <a href="https://github.com/vim/vim#readme" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1022px-Vimlogo.svg.png" alt="vim" width="40" height="40" /> </a>  
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 <!-- Programming and tools icons ends here -->
  
