@@ -78,7 +78,7 @@
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DeRoyace&theme=tokyonight"/>
 
-<img src="https://raw.githubusercontent.com/DeRoyace/terminal-style-stats-display/94a3fed69daf820c418147516f52abec8f2cd45d/github_stats.svg"/>
+<!-- <img src="https://raw.githubusercontent.com/DeRoyace/terminal-style-stats-display/94a3fed69daf820c418147516f52abec8f2cd45d/github_stats.svg"/> -->
 
 
 
